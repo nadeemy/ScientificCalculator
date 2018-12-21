@@ -27,5 +27,10 @@ namespace Calculator
         {
             return a / b;
         }
+
+        public static float Percentage(int a, int b)
+        {
+            return a % b ;
+        }
     }
 }
