@@ -22,5 +22,10 @@ namespace Calculator
         {
             return a * b;
         }
+
+        public static float Division(int a, int b)
+        {
+            return a / b;
+        }
     }
 }
